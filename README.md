@@ -12,3 +12,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/adrien-lamoureux-952ba4285/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>  <p><a target="_blank" href="https://tryhackme.com/p/.Adrien" style="display: inline-block;"><img src="https://img.shields.io/badge/tryhackme-logo?style=for-the-badge&logo=tryhackme&logoColor=white&color=%230a77b6" alt="tryhackme" /></a></p>
 
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-TonPseudo-red?logo=tryhackme)](https://tryhackme.com/p/TonPseudo)
+
