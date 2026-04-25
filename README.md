@@ -5,20 +5,6 @@
   A dedicated student with a focus on ethical hacking, network defense, and malware analysis.
 </p>
 
-<h2 align="center">🚀 Languages and Tools I Use</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" /> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42" height="42" /> 
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="42" height="42" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42" height="42" /> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
-</p>
-
 <h2 align="center">🔭 Currently Learning & Working on...</h2>
 
 <p align="center">
