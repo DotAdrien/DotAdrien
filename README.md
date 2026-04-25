@@ -1,29 +1,39 @@
-# Hello 👋
+# <p align="center">Hello 👋</p>
 
-Searching for a cybersecurity internship in 2026 🧑‍💻
-A dedicated student with a focus on ethical hacking, network defense, and malware analysis.
-
-## 🚀 Languages and Tools I Use
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+<p align="center">
+  Searching for a cybersecurity internship in 2026 🧑‍💻<br>
+  A dedicated student with a focus on ethical hacking, network defense, and malware analysis.
 </p>
 
-## 🔭 Currently Learning & Working on...
+<hr>
 
-- Hack The Box Pro Labs 🛡️
-- Buffer Overflow Exploitation 💥
-- Active Directory Attacks (TryHackMe) ⛓️
+### <p align="center">🚀 Languages and Tools I Use</p>
 
-## ⚡️ Where to find me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45" />
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/adrien-lamoureux-952ba4285/)
-[![TryHackMe](https://img.shields.io/badge/tryhackme-logo?style=for-the-badge&logo=tryhackme&logoColor=white&color=%230a77b6)](https://tryhackme.com/p/.Adrien)
+<hr>
+
+### <p align="center">🔭 Currently Learning & Working on...</p>
+
+<p align="center">
+  🎯 <b>Hack The Box Pro Labs</b> | 💥 <b>Buffer Overflow Exploitation</b> | ⛓️ <b>Active Directory Attacks</b>
+</p>
+
+<hr>
+
+### <p align="center">⚡️ Where to find me</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrien-lamoureux-952ba4285/"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a href="https://tryhackme.com/p/.Adrien"><img src="https://img.shields.io/badge/tryhackme-logo?style=for-the-badge&logo=tryhackme&logoColor=white&color=%230a77b6" alt="tryhackme" /></a>
+</p>
