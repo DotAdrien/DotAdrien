@@ -1,6 +1,7 @@
 # Hello 👋
 
 Searching for a cybersecurity internship in 2026 🧑‍💻
+A dedicated student with a focus on ethical hacking, network defense, and malware analysis.
 
 ## 🚀 Languages and Tools I Use
 
@@ -15,6 +16,12 @@ Searching for a cybersecurity internship in 2026 🧑‍💻
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
 </p>
+
+## 🔭 Currently Learning & Working on...
+
+- Hack The Box Pro Labs 🛡️
+- Buffer Overflow Exploitation 💥
+- Active Directory Attacks (TryHackMe) ⛓️
 
 ## ⚡️ Where to find me
 
