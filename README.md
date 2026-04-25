@@ -2,7 +2,7 @@
 
 <p align="center">
   Searching for a cybersecurity internship in 2026 🧑‍💻<br>
-  A dedicated student with a focus on ethical hacking, network defense, and malware analysis.
+  A dedicated student with a focus on ethical hacking, network defense
 </p>
 
 <h2 align="center">🔭 Currently Learning & Working on...</h2>
